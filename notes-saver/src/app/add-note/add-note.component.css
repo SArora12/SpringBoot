@@ -1,0 +1,23 @@
+.bgimg{
+    /* background-image: url("../bg_img.jpg"); */
+    /* margin-top: 20px; */
+    height: 563px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+.nav{
+    background-color: #51428f;
+}
+.text{
+    color: white;
+    font-size: larger;
+
+}
+.border{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(214, 147, 165);
+}

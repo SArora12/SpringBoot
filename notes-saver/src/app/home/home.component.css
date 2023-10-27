@@ -1,0 +1,62 @@
+.nav {
+    background-color: #51428f;
+}
+
+.text {
+    color: white;
+    font-size: larger;
+}
+
+.bgimg {
+    background-image: url("../bg_img.jpg");
+    /* margin-top: 20px; */
+    height: 563px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+}
+
+table {
+    width: 70%;
+    margin:20px auto;
+    border-collapse: collapse;
+    background-color: rgb(233, 227, 227);
+    border-radius: 20px;
+    color: black;
+    opacity: 0.7;
+    /* text-decoration: black; */
+}
+
+th, td {
+    /* border: 1px solid; */
+    padding: 8px;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: solid;
+    
+    /* color: black; */
+}
+
+td {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.action-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    background: #a51414;
+}
+
+.action-button i {
+    font-size: 16px;
+}
+
+.action-button i.fa-check {
+    color: green;
+}
+
+.action-button i.fa-times {
+    color: rgb(208, 197, 197);
+}
