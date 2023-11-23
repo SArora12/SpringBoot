@@ -16,7 +16,8 @@ Welcome to the User Notes Management System! This system is designed to help use
 
 To get started with this system, you need to have the following prerequisites installed:
 
-- Node.js (v14 or higher)
+- Angular
+- SpringBoot
 - MongoDB
 
 Follow these steps to set up the system:
